@@ -1,1 +1,2 @@
 This file won't last long
+This is the second line in doomed.txt

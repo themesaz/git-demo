@@ -4,4 +4,5 @@
 	The introduction of the git project places in here
 ## purpose 
 	The purpose of the project in learning github
-## How to contribure
+## How to contribute
+	This is a test text

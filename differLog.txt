@@ -1,1 +1,3 @@
 This is for commit
+This is for stage
+This is for working 

@@ -6,3 +6,5 @@
 	The purpose of the project in learning github
 ## How to contribute
 	This is a test text
+	
+Copyright 2020 git-demo	
